@@ -854,6 +854,11 @@ li span:hover:after {
     .project-star-mobile {
         display: block;
     }
+    
+    .H1.wor{
+        color: #000;
+        text-decoration: none;
+    }
 }
 
 
